@@ -25,5 +25,3 @@ It demonstrates how to build a simple REST API with an embedded Tomcat server.
 
 ---
 
-## 📂 Project Structure
-
